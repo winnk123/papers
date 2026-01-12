@@ -1,0 +1,11 @@
+# 核心依赖
+python-dotenv>=1.0.0
+pydantic>=2.0.0
+
+# LangChain 相关（用于 LLM 调用）
+langchain-openai>=0.0.5
+langchain-core>=0.1.0
+
+# 可选依赖
+tqdm>=4.65.0  # 用于进度条显示
+

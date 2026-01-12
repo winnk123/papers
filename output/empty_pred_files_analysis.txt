@@ -1,0 +1,344 @@
+================================================================================
+失败文件中Pred文件为空的分析
+================================================================================
+
+总计: 55 个失败文件
+  - Pred文件为空: 53 个
+  - Pred文件非空: 2 个
+  - Pred文件不存在: 0 个
+
+================================================================================
+Pred文件为空的文件列表
+================================================================================
+
+1. row_5473_2917959949_cy1skedg.md
+   GT路径: /home/chenyue001/papers/Benchmark/data/image_3/gt/row_5473_2917959949_cy1skedg.md
+   Pred路径: /home/chenyue001/papers/Benchmark/data/image_3/Intern_8b_imag3/row_5473_2917959949_cy1skedg.md
+   文件大小: 0 字节
+   GT题目数: 14
+
+2. row_4586_3073619537_4zmb1uis_7.md
+   GT路径: /home/chenyue001/papers/Benchmark/data/image_3/gt/row_4586_3073619537_4zmb1uis_7.md
+   Pred路径: /home/chenyue001/papers/Benchmark/data/image_3/Intern_8b_imag3/row_4586_3073619537_4zmb1uis_7.md
+   文件大小: 0 字节
+   GT题目数: 2
+
+3. row_3926_3201575599_jmcz4qrf_2.md
+   GT路径: /home/chenyue001/papers/Benchmark/data/image_4/gt/row_3926_3201575599_jmcz4qrf_2.md
+   Pred路径: /home/chenyue001/papers/Benchmark/data/image_4/Intern_8b_imag4/row_3926_3201575599_jmcz4qrf_2.md
+   文件大小: 0 字节
+   GT题目数: 7
+
+4. row_1276_3248327033_owec5zf9_4.md
+   GT路径: /home/chenyue001/papers/Benchmark/data/image_4/gt/row_1276_3248327033_owec5zf9_4.md
+   Pred路径: /home/chenyue001/papers/Benchmark/data/image_4/Intern_8b_imag4/row_1276_3248327033_owec5zf9_4.md
+   文件大小: 0 字节
+   GT题目数: 2
+
+5. row_1320_3248286816_jwiqyrba.md
+   GT路径: /home/chenyue001/papers/Benchmark/data/image_4/gt/row_1320_3248286816_jwiqyrba.md
+   Pred路径: /home/chenyue001/papers/Benchmark/data/image_4/Intern_8b_imag4/row_1320_3248286816_jwiqyrba.md
+   文件大小: 0 字节
+   GT题目数: 5
+
+6. row_140_3251239130_1oor7pdn_1.md
+   GT路径: /home/chenyue001/papers/Benchmark/data/image_4/gt/row_140_3251239130_1oor7pdn_1.md
+   Pred路径: /home/chenyue001/papers/Benchmark/data/image_4/Intern_8b_imag4/row_140_3251239130_1oor7pdn_1.md
+   文件大小: 0 字节
+   GT题目数: 8
+
+7. row_1975_3245545423_c57uzccp_3.md
+   GT路径: /home/chenyue001/papers/Benchmark/data/image_5/gt/row_1975_3245545423_c57uzccp_3.md
+   Pred路径: /home/chenyue001/papers/Benchmark/data/image_5/Intern_8b_imag5/row_1975_3245545423_c57uzccp_3.md
+   文件大小: 0 字节
+   GT题目数: 2
+
+8. row_901_3250081718_ds77yzdy_2.md
+   GT路径: /home/chenyue001/papers/Benchmark/data/image_5/gt/row_901_3250081718_ds77yzdy_2.md
+   Pred路径: /home/chenyue001/papers/Benchmark/data/image_5/Intern_8b_imag5/row_901_3250081718_ds77yzdy_2.md
+   文件大小: 0 字节
+   GT题目数: 5
+
+9. row_2194_3244106398_4kbi2ef1_1.md
+   GT路径: /home/chenyue001/papers/Benchmark/data/image_5/gt/row_2194_3244106398_4kbi2ef1_1.md
+   Pred路径: /home/chenyue001/papers/Benchmark/data/image_5/Intern_8b_imag5/row_2194_3244106398_4kbi2ef1_1.md
+   文件大小: 0 字节
+   GT题目数: 9
+
+10. row_2421_3243607936_qxnyd48u_3.md
+   GT路径: /home/chenyue001/papers/Benchmark/data/image_5/gt/row_2421_3243607936_qxnyd48u_3.md
+   Pred路径: /home/chenyue001/papers/Benchmark/data/image_5/Intern_8b_imag5/row_2421_3243607936_qxnyd48u_3.md
+   文件大小: 0 字节
+   GT题目数: 6
+
+11. row_1528_3247962104_fc4jfj7y_2.md
+   GT路径: /home/chenyue001/papers/Benchmark/data/image_5/gt/row_1528_3247962104_fc4jfj7y_2.md
+   Pred路径: /home/chenyue001/papers/Benchmark/data/image_5/Intern_8b_imag5/row_1528_3247962104_fc4jfj7y_2.md
+   文件大小: 0 字节
+   GT题目数: 7
+
+12. row_2467_3243620367_2zlqw0pn.md
+   GT路径: /home/chenyue001/papers/Benchmark/data/image_5/gt/row_2467_3243620367_2zlqw0pn.md
+   Pred路径: /home/chenyue001/papers/Benchmark/data/image_5/Intern_8b_imag5/row_2467_3243620367_2zlqw0pn.md
+   文件大小: 0 字节
+   GT题目数: 15
+
+13. row_530_3250812713_8xbs39s7_1.md
+   GT路径: /home/chenyue001/papers/Benchmark/data/image_9/gt/row_530_3250812713_8xbs39s7_1.md
+   Pred路径: /home/chenyue001/papers/Benchmark/data/image_9/Intern_8b_imag9/row_530_3250812713_8xbs39s7_1.md
+   文件大小: 0 字节
+   GT题目数: 7
+
+14. row_212_3251153942_htq2klgd.md
+   GT路径: /home/chenyue001/papers/Benchmark/data/image_6/gt/row_212_3251153942_htq2klgd.md
+   Pred路径: /home/chenyue001/papers/Benchmark/data/image_6/Intern_8b_imag6/row_212_3251153942_htq2klgd.md
+   文件大小: 0 字节
+   GT题目数: 10
+
+15. row_3080_3223106788_4kcb3r6w_2.md
+   GT路径: /home/chenyue001/papers/Benchmark/data/image_6/gt/row_3080_3223106788_4kcb3r6w_2.md
+   Pred路径: /home/chenyue001/papers/Benchmark/data/image_6/Intern_8b_imag6/row_3080_3223106788_4kcb3r6w_2.md
+   文件大小: 0 字节
+   GT题目数: 3
+
+16. row_4660_3060663199_7aej2pww_3.md
+   GT路径: /home/chenyue001/papers/Benchmark/data/image_6/gt/row_4660_3060663199_7aej2pww_3.md
+   Pred路径: /home/chenyue001/papers/Benchmark/data/image_6/Intern_8b_imag6/row_4660_3060663199_7aej2pww_3.md
+   文件大小: 0 字节
+   GT题目数: 3
+
+17. row_2539_3243610559_86252m4w_1.md
+   GT路径: /home/chenyue001/papers/Benchmark/data/image_9/gt/row_2539_3243610559_86252m4w_1.md
+   Pred路径: /home/chenyue001/papers/Benchmark/data/image_9/Intern_8b_imag9/row_2539_3243610559_86252m4w_1.md
+   文件大小: 0 字节
+   GT题目数: 6
+
+18. row_4015_3199882086_8lgs3d6y_2.md
+   GT路径: /home/chenyue001/papers/Benchmark/data/image_6/gt/row_4015_3199882086_8lgs3d6y_2.md
+   Pred路径: /home/chenyue001/papers/Benchmark/data/image_6/Intern_8b_imag6/row_4015_3199882086_8lgs3d6y_2.md
+   文件大小: 0 字节
+   GT题目数: 4
+
+19. row_6231_2921258822_6kb30hv9_2.md
+   GT路径: /home/chenyue001/papers/Benchmark/data/image_9/gt/row_6231_2921258822_6kb30hv9_2.md
+   Pred路径: /home/chenyue001/papers/Benchmark/data/image_9/Intern_8b_imag9/row_6231_2921258822_6kb30hv9_2.md
+   文件大小: 0 字节
+   GT题目数: 5
+
+20. row_1066_3249418679_944mmcpz_2.md
+   GT路径: /home/chenyue001/papers/Benchmark/data/image_10/gt/row_1066_3249418679_944mmcpz_2.md
+   Pred路径: /home/chenyue001/papers/Benchmark/data/image_10/Intern_8b_imag10/row_1066_3249418679_944mmcpz_2.md
+   文件大小: 0 字节
+   GT题目数: 8
+
+21. row_418_3250812851_i3b4w7nl.md
+   GT路径: /home/chenyue001/papers/Benchmark/data/image_7/gt/row_418_3250812851_i3b4w7nl.md
+   Pred路径: /home/chenyue001/papers/Benchmark/data/image_7/Intern_8b_imag7/row_418_3250812851_i3b4w7nl.md
+   文件大小: 0 字节
+   GT题目数: 15
+
+22. row_3961_3200514789_cnk3n890_1.md
+   GT路径: /home/chenyue001/papers/Benchmark/data/image_7/gt/row_3961_3200514789_cnk3n890_1.md
+   Pred路径: /home/chenyue001/papers/Benchmark/data/image_7/Intern_8b_imag7/row_3961_3200514789_cnk3n890_1.md
+   文件大小: 0 字节
+   GT题目数: 9
+
+23. row_3144_3222229247_cothffju.md
+   GT路径: /home/chenyue001/papers/Benchmark/data/image_10/gt/row_3144_3222229247_cothffju.md
+   Pred路径: /home/chenyue001/papers/Benchmark/data/image_10/Intern_8b_imag10/row_3144_3222229247_cothffju.md
+   文件大小: 0 字节
+   GT题目数: 8
+
+24. row_3668_3209201684_n6gmg1y3.md
+   GT路径: /home/chenyue001/papers/Benchmark/data/image_10/gt/row_3668_3209201684_n6gmg1y3.md
+   Pred路径: /home/chenyue001/papers/Benchmark/data/image_10/Intern_8b_imag10/row_3668_3209201684_n6gmg1y3.md
+   文件大小: 0 字节
+   GT题目数: 14
+
+25. row_1120_3249138778_i1l2wgwf.md
+   GT路径: /home/chenyue001/papers/Benchmark/data/image_1/gt/row_1120_3249138778_i1l2wgwf.md
+   Pred路径: /home/chenyue001/papers/Benchmark/data/image_1/Intern_8b_imag1/row_1120_3249138778_i1l2wgwf.md
+   文件大小: 0 字节
+   GT题目数: 9
+
+26. row_5292_2923712016_j66lzkuj_1.md
+   GT路径: /home/chenyue001/papers/Benchmark/data/image_7/gt/row_5292_2923712016_j66lzkuj_1.md
+   Pred路径: /home/chenyue001/papers/Benchmark/data/image_7/Intern_8b_imag7/row_5292_2923712016_j66lzkuj_1.md
+   文件大小: 0 字节
+   GT题目数: 6
+
+27. row_510_3250701998_po1foi7q_2.md
+   GT路径: /home/chenyue001/papers/Benchmark/data/image_7/gt/row_510_3250701998_po1foi7q_2.md
+   Pred路径: /home/chenyue001/papers/Benchmark/data/image_7/Intern_8b_imag7/row_510_3250701998_po1foi7q_2.md
+   文件大小: 0 字节
+   GT题目数: 7
+
+28. row_98_3251356573_o9fuk7g3.md
+   GT路径: /home/chenyue001/papers/Benchmark/data/image_7/gt/row_98_3251356573_o9fuk7g3.md
+   Pred路径: /home/chenyue001/papers/Benchmark/data/image_7/Intern_8b_imag7/row_98_3251356573_o9fuk7g3.md
+   文件大小: 0 字节
+   GT题目数: 5
+
+29. row_1536_3247831226_t6o4rgd0_1.md
+   GT路径: /home/chenyue001/papers/Benchmark/data/image_7/gt/row_1536_3247831226_t6o4rgd0_1.md
+   Pred路径: /home/chenyue001/papers/Benchmark/data/image_7/Intern_8b_imag7/row_1536_3247831226_t6o4rgd0_1.md
+   文件大小: 0 字节
+   GT题目数: 15
+
+30. row_1062_3249416131_n6zrkml4_1.md
+   GT路径: /home/chenyue001/papers/Benchmark/data/image_1/gt/row_1062_3249416131_n6zrkml4_1.md
+   Pred路径: /home/chenyue001/papers/Benchmark/data/image_1/Intern_8b_imag1/row_1062_3249416131_n6zrkml4_1.md
+   文件大小: 0 字节
+   GT题目数: 8
+
+31. row_9_3252152721_ba3hnfd0_2.md
+   GT路径: /home/chenyue001/papers/Benchmark/data/image_7/gt/row_9_3252152721_ba3hnfd0_2.md
+   Pred路径: /home/chenyue001/papers/Benchmark/data/image_7/Intern_8b_imag7/row_9_3252152721_ba3hnfd0_2.md
+   文件大小: 0 字节
+   GT题目数: 2
+
+32. row_2137_3244511641_mt5zstcg_1.md
+   GT路径: /home/chenyue001/papers/Benchmark/data/image_1/gt/row_2137_3244511641_mt5zstcg_1.md
+   Pred路径: /home/chenyue001/papers/Benchmark/data/image_1/Intern_8b_imag1/row_2137_3244511641_mt5zstcg_1.md
+   文件大小: 0 字节
+   GT题目数: 7
+
+33. row_4714_3014954219_pirunx9o_1.md
+   GT路径: /home/chenyue001/papers/Benchmark/data/image_7/gt/row_4714_3014954219_pirunx9o_1.md
+   Pred路径: /home/chenyue001/papers/Benchmark/data/image_7/Intern_8b_imag7/row_4714_3014954219_pirunx9o_1.md
+   文件大小: 0 字节
+   GT题目数: 5
+
+34. row_1948_3245497988_r1gdtsfa_3.md
+   GT路径: /home/chenyue001/papers/Benchmark/data/image_1/gt/row_1948_3245497988_r1gdtsfa_3.md
+   Pred路径: /home/chenyue001/papers/Benchmark/data/image_1/Intern_8b_imag1/row_1948_3245497988_r1gdtsfa_3.md
+   文件大小: 0 字节
+   GT题目数: 7
+
+35. row_573_3250683336_ptlhsnln_3.md
+   GT路径: /home/chenyue001/papers/Benchmark/data/image_1/gt/row_573_3250683336_ptlhsnln_3.md
+   Pred路径: /home/chenyue001/papers/Benchmark/data/image_1/Intern_8b_imag1/row_573_3250683336_ptlhsnln_3.md
+   文件大小: 0 字节
+   GT题目数: 3
+
+36. row_983_3249615253_ynauan9a_1.md
+   GT路径: /home/chenyue001/papers/Benchmark/data/image_1/gt/row_983_3249615253_ynauan9a_1.md
+   Pred路径: /home/chenyue001/papers/Benchmark/data/image_1/Intern_8b_imag1/row_983_3249615253_ynauan9a_1.md
+   文件大小: 0 字节
+   GT题目数: 12
+
+37. row_1762_3247577273_99e71p7y.md
+   GT路径: /home/chenyue001/papers/Benchmark/data/image_8/gt/row_1762_3247577273_99e71p7y.md
+   Pred路径: /home/chenyue001/papers/Benchmark/data/image_8/Intern_8b_imag8/row_1762_3247577273_99e71p7y.md
+   文件大小: 0 字节
+   GT题目数: 7
+
+38. row_3983_3200072056_k9qkm764_2.md
+   GT路径: /home/chenyue001/papers/Benchmark/data/image_8/gt/row_3983_3200072056_k9qkm764_2.md
+   Pred路径: /home/chenyue001/papers/Benchmark/data/image_8/Intern_8b_imag8/row_3983_3200072056_k9qkm764_2.md
+   文件大小: 0 字节
+   GT题目数: 7
+
+39. row_351_3250883724_326csxvk_3.md
+   GT路径: /home/chenyue001/papers/Benchmark/data/image_2/gt/row_351_3250883724_326csxvk_3.md
+   Pred路径: /home/chenyue001/papers/Benchmark/data/image_2/Intern_8b_imag2/row_351_3250883724_326csxvk_3.md
+   文件大小: 0 字节
+   GT题目数: 3
+
+40. row_1384_3248309476_kxqxwbzm.md
+   GT路径: /home/chenyue001/papers/Benchmark/data/image_2/gt/row_1384_3248309476_kxqxwbzm.md
+   Pred路径: /home/chenyue001/papers/Benchmark/data/image_2/Intern_8b_imag2/row_1384_3248309476_kxqxwbzm.md
+   文件大小: 0 字节
+   GT题目数: 7
+
+41. row_4327_3083056442_p7hvhana.md
+   GT路径: /home/chenyue001/papers/Benchmark/data/image_8/gt/row_4327_3083056442_p7hvhana.md
+   Pred路径: /home/chenyue001/papers/Benchmark/data/image_8/Intern_8b_imag8/row_4327_3083056442_p7hvhana.md
+   文件大小: 0 字节
+   GT题目数: 12
+
+42. row_431_3250750548_fn18145z_1.md
+   GT路径: /home/chenyue001/papers/Benchmark/data/image_2/gt/row_431_3250750548_fn18145z_1.md
+   Pred路径: /home/chenyue001/papers/Benchmark/data/image_2/Intern_8b_imag2/row_431_3250750548_fn18145z_1.md
+   文件大小: 0 字节
+   GT题目数: 6
+
+43. row_1022_3249608691_omi2smyo_3.md
+   GT路径: /home/chenyue001/papers/Benchmark/data/image_8/gt/row_1022_3249608691_omi2smyo_3.md
+   Pred路径: /home/chenyue001/papers/Benchmark/data/image_8/Intern_8b_imag8/row_1022_3249608691_omi2smyo_3.md
+   文件大小: 0 字节
+   GT题目数: 5
+
+44. row_687_3249954528_f07ihvxe.md
+   GT路径: /home/chenyue001/papers/Benchmark/data/image_2/gt/row_687_3249954528_f07ihvxe.md
+   Pred路径: /home/chenyue001/papers/Benchmark/data/image_2/Intern_8b_imag2/row_687_3249954528_f07ihvxe.md
+   文件大小: 0 字节
+   GT题目数: 11
+
+45. row_1201_3248677068_fnv7bi38_1.md
+   GT路径: /home/chenyue001/papers/Benchmark/data/image_2/gt/row_1201_3248677068_fnv7bi38_1.md
+   Pred路径: /home/chenyue001/papers/Benchmark/data/image_2/Intern_8b_imag2/row_1201_3248677068_fnv7bi38_1.md
+   文件大小: 0 字节
+   GT题目数: 8
+
+46. row_1232_3248396552_k47u1gqb_1.md
+   GT路径: /home/chenyue001/papers/Benchmark/data/image_8/gt/row_1232_3248396552_k47u1gqb_1.md
+   Pred路径: /home/chenyue001/papers/Benchmark/data/image_8/Intern_8b_imag8/row_1232_3248396552_k47u1gqb_1.md
+   文件大小: 0 字节
+   GT题目数: 8
+
+47. row_621_3250687597_8ffqid2m_1.md
+   GT路径: /home/chenyue001/papers/Benchmark/data/image_8/gt/row_621_3250687597_8ffqid2m_1.md
+   Pred路径: /home/chenyue001/papers/Benchmark/data/image_8/Intern_8b_imag8/row_621_3250687597_8ffqid2m_1.md
+   文件大小: 0 字节
+   GT题目数: 6
+
+48. row_1211_3248402762_zonkyo5d_1.md
+   GT路径: /home/chenyue001/papers/Benchmark/data/image_2/gt/row_1211_3248402762_zonkyo5d_1.md
+   Pred路径: /home/chenyue001/papers/Benchmark/data/image_2/Intern_8b_imag2/row_1211_3248402762_zonkyo5d_1.md
+   文件大小: 0 字节
+   GT题目数: 4
+
+49. row_1009_3249487370_quc14b6u_1.md
+   GT路径: /home/chenyue001/papers/Benchmark/data/image_9/gt/row_1009_3249487370_quc14b6u_1.md
+   Pred路径: /home/chenyue001/papers/Benchmark/data/image_9/Intern_8b_imag9/row_1009_3249487370_quc14b6u_1.md
+   文件大小: 0 字节
+   GT题目数: 7
+
+50. row_684_3250155386_d4slo605_2.md
+   GT路径: /home/chenyue001/papers/Benchmark/data/image_9/gt/row_684_3250155386_d4slo605_2.md
+   Pred路径: /home/chenyue001/papers/Benchmark/data/image_9/Intern_8b_imag9/row_684_3250155386_d4slo605_2.md
+   文件大小: 0 字节
+   GT题目数: 8
+
+51. row_278_3251092789_lnmuckk4_3.md
+   GT路径: /home/chenyue001/papers/Benchmark/data/image_9/gt/row_278_3251092789_lnmuckk4_3.md
+   Pred路径: /home/chenyue001/papers/Benchmark/data/image_9/Intern_8b_imag9/row_278_3251092789_lnmuckk4_3.md
+   文件大小: 0 字节
+   GT题目数: 4
+
+52. row_5641_2917605832_3mpmzb17.md
+   GT路径: /home/chenyue001/papers/Benchmark/data/image_9/gt/row_5641_2917605832_3mpmzb17.md
+   Pred路径: /home/chenyue001/papers/Benchmark/data/image_9/Intern_8b_imag9/row_5641_2917605832_3mpmzb17.md
+   文件大小: 0 字节
+   GT题目数: 7
+
+53. row_1062_3249415977_raa5y10e.md
+   GT路径: /home/chenyue001/papers/Benchmark/data/image_9/gt/row_1062_3249415977_raa5y10e.md
+   Pred路径: /home/chenyue001/papers/Benchmark/data/image_9/Intern_8b_imag9/row_1062_3249415977_raa5y10e.md
+   文件大小: 0 字节
+   GT题目数: 11
+
+================================================================================
+Pred文件非空但仍对齐失败的文件列表
+================================================================================
+
+1. row_182_3251186099_pnip2rsw.md
+   Pred路径: /home/chenyue001/papers/Benchmark/data/image_5/Intern_8b_imag5/row_182_3251186099_pnip2rsw.md
+   文件大小: 6116 字节
+   GT题目数: 16
+
+2. row_1123_3249250407_m0bn8em9.md
+   Pred路径: /home/chenyue001/papers/Benchmark/data/image_8/Intern_8b_imag8/row_1123_3249250407_m0bn8em9.md
+   文件大小: 5994 字节
+   GT题目数: 15

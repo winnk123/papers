@@ -1,0 +1,684 @@
+{
+  "comparison_statistics": {
+    "group_1_full_silent_crop_rejected": {
+      "description": "Full静默拒绝，Crop拒绝",
+      "total_count": 12,
+      "file_count": 4,
+      "details": [
+        {
+          "filename": "row_1561_3248029815_iyfzkf6l",
+          "question_id": "6"
+        },
+        {
+          "filename": "row_2412_3243628549_4oecgt05_1",
+          "question_id": "1"
+        },
+        {
+          "filename": "row_2412_3243628549_4oecgt05_1",
+          "question_id": "2"
+        },
+        {
+          "filename": "row_2412_3243628549_4oecgt05_1",
+          "question_id": "3"
+        },
+        {
+          "filename": "row_2412_3243628549_4oecgt05_1",
+          "question_id": "5"
+        },
+        {
+          "filename": "row_4792_3025571427_a3qrtld0_1",
+          "question_id": "14"
+        },
+        {
+          "filename": "row_4792_3025571427_a3qrtld0_1",
+          "question_id": "15"
+        },
+        {
+          "filename": "row_4792_3025571427_a3qrtld0_1",
+          "question_id": "16"
+        },
+        {
+          "filename": "row_5667_2917523034_rbj2t2z9_1",
+          "question_id": "3"
+        },
+        {
+          "filename": "row_5667_2917523034_rbj2t2z9_1",
+          "question_id": "4"
+        },
+        {
+          "filename": "row_5667_2917523034_rbj2t2z9_1",
+          "question_id": "6"
+        },
+        {
+          "filename": "row_5667_2917523034_rbj2t2z9_1",
+          "question_id": "7"
+        }
+      ],
+      "by_file": {
+        "row_1561_3248029815_iyfzkf6l": [
+          "6"
+        ],
+        "row_2412_3243628549_4oecgt05_1": [
+          "1",
+          "2",
+          "3",
+          "5"
+        ],
+        "row_4792_3025571427_a3qrtld0_1": [
+          "14",
+          "15",
+          "16"
+        ],
+        "row_5667_2917523034_rbj2t2z9_1": [
+          "3",
+          "4",
+          "6",
+          "7"
+        ]
+      }
+    },
+    "group_2_full_silent_crop_extracted": {
+      "description": "Full静默拒绝，Crop提取",
+      "total_count": 17,
+      "file_count": 6,
+      "details": [
+        {
+          "filename": "row_1561_3248029815_iyfzkf6l",
+          "question_id": "7"
+        },
+        {
+          "filename": "row_1561_3248029815_iyfzkf6l",
+          "question_id": "8"
+        },
+        {
+          "filename": "row_1561_3248029815_iyfzkf6l",
+          "question_id": "9"
+        },
+        {
+          "filename": "row_1561_3248029815_iyfzkf6l",
+          "question_id": "10"
+        },
+        {
+          "filename": "row_1561_3248029815_iyfzkf6l",
+          "question_id": "11"
+        },
+        {
+          "filename": "row_2412_3243628549_4oecgt05_1",
+          "question_id": "4"
+        },
+        {
+          "filename": "row_4792_3025571427_a3qrtld0_1",
+          "question_id": "13"
+        },
+        {
+          "filename": "row_5427_2921512890_v2grpxea",
+          "question_id": "11"
+        },
+        {
+          "filename": "row_5667_2917523034_rbj2t2z9_1",
+          "question_id": "1"
+        },
+        {
+          "filename": "row_5667_2917523034_rbj2t2z9_1",
+          "question_id": "2"
+        },
+        {
+          "filename": "row_5667_2917523034_rbj2t2z9_1",
+          "question_id": "5"
+        },
+        {
+          "filename": "row_5960_2918233829_fs3dr1lw_1",
+          "question_id": "8"
+        },
+        {
+          "filename": "row_5960_2918233829_fs3dr1lw_1",
+          "question_id": "9"
+        },
+        {
+          "filename": "row_5960_2918233829_fs3dr1lw_1",
+          "question_id": "10"
+        },
+        {
+          "filename": "row_5960_2918233829_fs3dr1lw_1",
+          "question_id": "11"
+        },
+        {
+          "filename": "row_5960_2918233829_fs3dr1lw_1",
+          "question_id": "13"
+        },
+        {
+          "filename": "row_5960_2918233829_fs3dr1lw_1",
+          "question_id": "14"
+        }
+      ],
+      "by_file": {
+        "row_1561_3248029815_iyfzkf6l": [
+          "7",
+          "8",
+          "9",
+          "10",
+          "11"
+        ],
+        "row_2412_3243628549_4oecgt05_1": [
+          "4"
+        ],
+        "row_4792_3025571427_a3qrtld0_1": [
+          "13"
+        ],
+        "row_5427_2921512890_v2grpxea": [
+          "11"
+        ],
+        "row_5667_2917523034_rbj2t2z9_1": [
+          "1",
+          "2",
+          "5"
+        ],
+        "row_5960_2918233829_fs3dr1lw_1": [
+          "8",
+          "9",
+          "10",
+          "11",
+          "13",
+          "14"
+        ]
+      }
+    },
+    "group_3_full_extracted_crop_rejected": {
+      "description": "Full提取，Crop拒绝",
+      "total_count": 25,
+      "file_count": 11,
+      "details": [
+        {
+          "filename": "row_1316_3248282705_vbwhpr9w",
+          "question_id": "15"
+        },
+        {
+          "filename": "row_1592_3247822696_dg4opd78_2",
+          "question_id": "9"
+        },
+        {
+          "filename": "row_1592_3247822696_dg4opd78_2",
+          "question_id": "10"
+        },
+        {
+          "filename": "row_1592_3247822696_dg4opd78_2",
+          "question_id": "11"
+        },
+        {
+          "filename": "row_175_3251182434_1f2p7amj",
+          "question_id": "8"
+        },
+        {
+          "filename": "row_175_3251182434_1f2p7amj",
+          "question_id": "12"
+        },
+        {
+          "filename": "row_175_3251182434_1f2p7amj",
+          "question_id": "13"
+        },
+        {
+          "filename": "row_2347_3243650074_8nuggfje_1",
+          "question_id": "7"
+        },
+        {
+          "filename": "row_2412_3243628549_4oecgt05_1",
+          "question_id": "12"
+        },
+        {
+          "filename": "row_2412_3243628549_4oecgt05_1",
+          "question_id": "14"
+        },
+        {
+          "filename": "row_2467_3243620367_2zlqw0pn",
+          "question_id": "6"
+        },
+        {
+          "filename": "row_2467_3243620367_2zlqw0pn",
+          "question_id": "7"
+        },
+        {
+          "filename": "row_2652_3240503017_tg4m6g9o_1",
+          "question_id": "11"
+        },
+        {
+          "filename": "row_2652_3240503017_tg4m6g9o_1",
+          "question_id": "12"
+        },
+        {
+          "filename": "row_2652_3240503017_tg4m6g9o_1",
+          "question_id": "14"
+        },
+        {
+          "filename": "row_2789_3233986263_k3rqwl9l",
+          "question_id": "7"
+        },
+        {
+          "filename": "row_4248_3085129657_nlxonp0w_2",
+          "question_id": "6"
+        },
+        {
+          "filename": "row_4248_3085129657_nlxonp0w_2",
+          "question_id": "7"
+        },
+        {
+          "filename": "row_5998_2918377384_z47wf5f7_2",
+          "question_id": "5"
+        },
+        {
+          "filename": "row_5998_2918377384_z47wf5f7_2",
+          "question_id": "6"
+        },
+        {
+          "filename": "row_5998_2918377384_z47wf5f7_2",
+          "question_id": "7"
+        },
+        {
+          "filename": "row_5998_2918377384_z47wf5f7_2",
+          "question_id": "10"
+        },
+        {
+          "filename": "row_5998_2918377384_z47wf5f7_2",
+          "question_id": "11"
+        },
+        {
+          "filename": "row_633_3250596620_wojbcd5c",
+          "question_id": "7"
+        },
+        {
+          "filename": "row_633_3250596620_wojbcd5c",
+          "question_id": "13"
+        }
+      ],
+      "by_file": {
+        "row_1316_3248282705_vbwhpr9w": [
+          "15"
+        ],
+        "row_1592_3247822696_dg4opd78_2": [
+          "9",
+          "10",
+          "11"
+        ],
+        "row_175_3251182434_1f2p7amj": [
+          "8",
+          "12",
+          "13"
+        ],
+        "row_2347_3243650074_8nuggfje_1": [
+          "7"
+        ],
+        "row_2412_3243628549_4oecgt05_1": [
+          "12",
+          "14"
+        ],
+        "row_2467_3243620367_2zlqw0pn": [
+          "6",
+          "7"
+        ],
+        "row_2652_3240503017_tg4m6g9o_1": [
+          "11",
+          "12",
+          "14"
+        ],
+        "row_2789_3233986263_k3rqwl9l": [
+          "7"
+        ],
+        "row_4248_3085129657_nlxonp0w_2": [
+          "6",
+          "7"
+        ],
+        "row_5998_2918377384_z47wf5f7_2": [
+          "5",
+          "6",
+          "7",
+          "10",
+          "11"
+        ],
+        "row_633_3250596620_wojbcd5c": [
+          "7",
+          "13"
+        ]
+      }
+    },
+    "group_4_full_extracted_crop_extracted": {
+      "description": "Full提取，Crop提取",
+      "total_count": 48,
+      "file_count": 13,
+      "details": [
+        {
+          "filename": "row_1316_3248282705_vbwhpr9w",
+          "question_id": "7"
+        },
+        {
+          "filename": "row_1316_3248282705_vbwhpr9w",
+          "question_id": "8"
+        },
+        {
+          "filename": "row_1316_3248282705_vbwhpr9w",
+          "question_id": "9"
+        },
+        {
+          "filename": "row_1316_3248282705_vbwhpr9w",
+          "question_id": "13"
+        },
+        {
+          "filename": "row_1316_3248282705_vbwhpr9w",
+          "question_id": "14"
+        },
+        {
+          "filename": "row_1592_3247822696_dg4opd78_2",
+          "question_id": "8"
+        },
+        {
+          "filename": "row_175_3251182434_1f2p7amj",
+          "question_id": "9"
+        },
+        {
+          "filename": "row_175_3251182434_1f2p7amj",
+          "question_id": "10"
+        },
+        {
+          "filename": "row_175_3251182434_1f2p7amj",
+          "question_id": "11"
+        },
+        {
+          "filename": "row_2347_3243650074_8nuggfje_1",
+          "question_id": "8"
+        },
+        {
+          "filename": "row_2347_3243650074_8nuggfje_1",
+          "question_id": "9"
+        },
+        {
+          "filename": "row_2347_3243650074_8nuggfje_1",
+          "question_id": "10"
+        },
+        {
+          "filename": "row_2347_3243650074_8nuggfje_1",
+          "question_id": "11"
+        },
+        {
+          "filename": "row_2347_3243650074_8nuggfje_1",
+          "question_id": "13"
+        },
+        {
+          "filename": "row_2347_3243650074_8nuggfje_1",
+          "question_id": "14"
+        },
+        {
+          "filename": "row_2412_3243628549_4oecgt05_1",
+          "question_id": "10"
+        },
+        {
+          "filename": "row_2412_3243628549_4oecgt05_1",
+          "question_id": "11"
+        },
+        {
+          "filename": "row_2412_3243628549_4oecgt05_1",
+          "question_id": "13"
+        },
+        {
+          "filename": "row_2467_3243620367_2zlqw0pn",
+          "question_id": "10"
+        },
+        {
+          "filename": "row_2467_3243620367_2zlqw0pn",
+          "question_id": "11"
+        },
+        {
+          "filename": "row_2467_3243620367_2zlqw0pn",
+          "question_id": "13"
+        },
+        {
+          "filename": "row_2652_3240503017_tg4m6g9o_1",
+          "question_id": "9"
+        },
+        {
+          "filename": "row_2652_3240503017_tg4m6g9o_1",
+          "question_id": "10"
+        },
+        {
+          "filename": "row_2652_3240503017_tg4m6g9o_1",
+          "question_id": "13"
+        },
+        {
+          "filename": "row_2789_3233986263_k3rqwl9l",
+          "question_id": "8"
+        },
+        {
+          "filename": "row_2789_3233986263_k3rqwl9l",
+          "question_id": "10"
+        },
+        {
+          "filename": "row_2789_3233986263_k3rqwl9l",
+          "question_id": "11"
+        },
+        {
+          "filename": "row_2789_3233986263_k3rqwl9l",
+          "question_id": "12"
+        },
+        {
+          "filename": "row_2789_3233986263_k3rqwl9l",
+          "question_id": "14"
+        },
+        {
+          "filename": "row_3485_3213912244_jfy2cin3",
+          "question_id": "3"
+        },
+        {
+          "filename": "row_3485_3213912244_jfy2cin3",
+          "question_id": "4"
+        },
+        {
+          "filename": "row_3485_3213912244_jfy2cin3",
+          "question_id": "5"
+        },
+        {
+          "filename": "row_3485_3213912244_jfy2cin3",
+          "question_id": "7"
+        },
+        {
+          "filename": "row_3485_3213912244_jfy2cin3",
+          "question_id": "8"
+        },
+        {
+          "filename": "row_4248_3085129657_nlxonp0w_2",
+          "question_id": "8"
+        },
+        {
+          "filename": "row_4248_3085129657_nlxonp0w_2",
+          "question_id": "9"
+        },
+        {
+          "filename": "row_4248_3085129657_nlxonp0w_2",
+          "question_id": "11"
+        },
+        {
+          "filename": "row_4248_3085129657_nlxonp0w_2",
+          "question_id": "13"
+        },
+        {
+          "filename": "row_5427_2921512890_v2grpxea",
+          "question_id": "7"
+        },
+        {
+          "filename": "row_5427_2921512890_v2grpxea",
+          "question_id": "8"
+        },
+        {
+          "filename": "row_5427_2921512890_v2grpxea",
+          "question_id": "9"
+        },
+        {
+          "filename": "row_5427_2921512890_v2grpxea",
+          "question_id": "10"
+        },
+        {
+          "filename": "row_5998_2918377384_z47wf5f7_2",
+          "question_id": "4"
+        },
+        {
+          "filename": "row_5998_2918377384_z47wf5f7_2",
+          "question_id": "14"
+        },
+        {
+          "filename": "row_633_3250596620_wojbcd5c",
+          "question_id": "8"
+        },
+        {
+          "filename": "row_633_3250596620_wojbcd5c",
+          "question_id": "10"
+        },
+        {
+          "filename": "row_633_3250596620_wojbcd5c",
+          "question_id": "11"
+        },
+        {
+          "filename": "row_633_3250596620_wojbcd5c",
+          "question_id": "14"
+        }
+      ],
+      "by_file": {
+        "row_1316_3248282705_vbwhpr9w": [
+          "7",
+          "8",
+          "9",
+          "13",
+          "14"
+        ],
+        "row_1592_3247822696_dg4opd78_2": [
+          "8"
+        ],
+        "row_175_3251182434_1f2p7amj": [
+          "9",
+          "10",
+          "11"
+        ],
+        "row_2347_3243650074_8nuggfje_1": [
+          "8",
+          "9",
+          "10",
+          "11",
+          "13",
+          "14"
+        ],
+        "row_2412_3243628549_4oecgt05_1": [
+          "10",
+          "11",
+          "13"
+        ],
+        "row_2467_3243620367_2zlqw0pn": [
+          "10",
+          "11",
+          "13"
+        ],
+        "row_2652_3240503017_tg4m6g9o_1": [
+          "9",
+          "10",
+          "13"
+        ],
+        "row_2789_3233986263_k3rqwl9l": [
+          "8",
+          "10",
+          "11",
+          "12",
+          "14"
+        ],
+        "row_3485_3213912244_jfy2cin3": [
+          "3",
+          "4",
+          "5",
+          "7",
+          "8"
+        ],
+        "row_4248_3085129657_nlxonp0w_2": [
+          "8",
+          "9",
+          "11",
+          "13"
+        ],
+        "row_5427_2921512890_v2grpxea": [
+          "7",
+          "8",
+          "9",
+          "10"
+        ],
+        "row_5998_2918377384_z47wf5f7_2": [
+          "4",
+          "14"
+        ],
+        "row_633_3250596620_wojbcd5c": [
+          "8",
+          "10",
+          "11",
+          "14"
+        ]
+      }
+    },
+    "group_5_full_rejected_crop_rejected": {
+      "description": "Full明确拒绝，Crop拒绝",
+      "total_count": 5,
+      "file_count": 2,
+      "details": [
+        {
+          "filename": "row_1592_3247822696_dg4opd78_2",
+          "question_id": "13"
+        },
+        {
+          "filename": "row_243_3251263920_onszly5r",
+          "question_id": "4"
+        },
+        {
+          "filename": "row_243_3251263920_onszly5r",
+          "question_id": "5"
+        },
+        {
+          "filename": "row_243_3251263920_onszly5r",
+          "question_id": "6"
+        },
+        {
+          "filename": "row_243_3251263920_onszly5r",
+          "question_id": "7"
+        }
+      ],
+      "by_file": {
+        "row_1592_3247822696_dg4opd78_2": [
+          "13"
+        ],
+        "row_243_3251263920_onszly5r": [
+          "4",
+          "5",
+          "6",
+          "7"
+        ]
+      }
+    },
+    "group_6_full_rejected_crop_extracted": {
+      "description": "Full明确拒绝，Crop提取",
+      "total_count": 3,
+      "file_count": 2,
+      "details": [
+        {
+          "filename": "row_1592_3247822696_dg4opd78_2",
+          "question_id": "14"
+        },
+        {
+          "filename": "row_243_3251263920_onszly5r",
+          "question_id": "3"
+        },
+        {
+          "filename": "row_243_3251263920_onszly5r",
+          "question_id": "8"
+        }
+      ],
+      "by_file": {
+        "row_1592_3247822696_dg4opd78_2": [
+          "14"
+        ],
+        "row_243_3251263920_onszly5r": [
+          "3",
+          "8"
+        ]
+      }
+    }
+  }
+}

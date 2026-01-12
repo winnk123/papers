@@ -1,0 +1,15 @@
+# 屏蔽 data 目录下的所有文件
+data/
+
+# 屏蔽 Test_samples 目录下的所有文件
+Test_samples/
+
+# 屏蔽 Python 缓存文件
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# 屏蔽环境变量文件
+.env
+
