@@ -61,6 +61,10 @@ DASHSCOPE_API_KEY=your_api_key_here
 
 ## 数据配置
 
+### 数据说明
+
+**注意**：图片数据和正确答案（Ground Truth）数据会过一段时间上传到仓库。目前仓库中只包含评估代码和配置文件。
+
 ### 数据目录结构
 
 **重要**：GT（Ground Truth）和 Pred（Prediction）文件都需要放在 `data/` 目录下进行比较。
