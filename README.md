@@ -63,7 +63,14 @@ DASHSCOPE_API_KEY=your_api_key_here
 
 ### 数据说明
 
-**注意**：图片数据和正确答案（Ground Truth）数据会过一段时间上传到仓库。目前仓库中只包含评估代码和配置文件。
+数据集已上传到 Hugging Face，包含以下内容：
+
+- **数据集地址**：https://huggingface.co/datasets/chenyue123/Result_GT
+- **包含文件**：
+  - `Result_GT.zip`：Ground Truth（标准答案）数据
+  - `Test_images.zip`：测试图片数据
+
+数据集可以直接从 Hugging Face 下载使用。
 
 ### 数据目录结构
 
